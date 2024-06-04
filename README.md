@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a software engineer from Nebraska with experience in both low-level embedded software and high-level website development. I've recently been working in mostly C++/Qt, especially front-end work in QML and JavaScript.
+
+Currently open to remote roles and roles based in Southern Florida!
+
 <!--
 **acarlson98/acarlson98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
