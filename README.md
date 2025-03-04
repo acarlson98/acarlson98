@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I'm a software engineer from Nebraska with experience in both low-level embedded software and high-level website development.
-
 <!--
 **acarlson98/acarlson98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
